@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Ruby on Rails Project
 
-Things you may want to cover:
+This project is an introduction to Ruby on Rails, completed during my two-week work placement at Thinkific. 
 
-* Ruby version
+### Project Set-up
+1. Clone the repo (using ssh)
+2. `cd` into rails-app
+3. Run `bundle install`
+4. Type `bin/rake db:create` to download the database
+5. Run `bin/rails s` 
+6. Navigate to [localhost:3000](localhost:3000)
+7. There should be a welcome screen, as shown below
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![localhost:3000 screenshot](/app/assets/images/rails.png?raw=true "localhost:3000 screenshot")
