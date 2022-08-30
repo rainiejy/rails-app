@@ -14,3 +14,5 @@ This project is an introduction to Ruby on Rails, completed during my two-week w
 7. There should be a welcome screen, as shown below
 
 ![localhost:3000 screenshot](/app/assets/images/rails.png?raw=true "localhost:3000 screenshot")
+
+This is a test
